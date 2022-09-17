@@ -1,0 +1,2 @@
+# Requirement-and-user-story-design-and-UX-UI-mock-up-
+This project comprised the planning phase of an admin system for the German University in Cairo (GUC). First, GUC staff were interviewed to gather user & system requirements.  A requirements list was logged and sever UML diagrams were prepared, including an ERD of the system. Next,  a product backlog and scrum backlog were created using Scrum methodology. Finally,  a UX/UI mockup for the admin system using Figma.
